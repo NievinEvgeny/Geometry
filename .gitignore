@@ -1,0 +1,7 @@
+.main.c.swp
+main.c~
+#main.c#
+*.o
+*/.keep
+obj/*
+bin/*
